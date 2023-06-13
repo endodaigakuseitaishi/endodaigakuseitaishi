@@ -3,7 +3,7 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=hawk0616&theme=tokyonight&show_icons=ture" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=endodaigakuseitaishi&theme=algolia&column=7
+[![trophy](https://github-profile-trophy.vercel.app/?username=hawk0616&theme=algolia&column=7
 )](https://github.com/hawk0616/github-profile-trophy)
 
 [![](https://raw.githubusercontent.com/hawk0616/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
